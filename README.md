@@ -101,4 +101,55 @@ The raw Netflix dataset was thoroughly cleaned using **Excel Power Query** befor
 
 - ✅ Data cleaned and structured using **Excel Power Query**
 - ✅ Built 4 detailed dashboards with interlinked filters and slicers
-- ✅ Dark-th
+- ✅ Dark-themed professional visuals
+- ✅ Real-world analytical storytelling use case
+- ✅ Ideal for interviews and BI portfolios
+
+---
+
+## 📷 Project Files
+
+| File Name                           | Description                                      |
+|------------------------------------|--------------------------------------------------|
+| `Overview dasdhboard.png`          | Global stats overview                            |
+| `Content dashoard.png`             | Genre, duration, and ratings analysis            |
+| `Timeline dashboard.png`           | Content trends over time                         |
+| `Country Trends.png`               | Country and regional insights                    |
+| `Final_Netflix_Cleaned_Dataset.csv`| Cleaned dataset from Power Query                 |
+| `netflix_titles.csv`               | Original dataset (pre-cleaning)                  |
+| `Netflix_Logo_RGB.png`             | Netflix branding for dashboard                   |
+| `back.webp`                        | Dark background used in dashboard visuals        |
+
+---
+
+## 🚀 How to Use
+
+1. Clone or download this repository.
+2. Open `Power BI Desktop`.
+3. Load `Final_Netflix_Cleaned_Dataset.csv`.
+4. View or customize any dashboard page (Overview, Content, Timeline, Country).
+5. Use slicers for dynamic exploration by Year, Country, Type, Rating, or Genre.
+
+---
+
+## 📣 Conclusion
+
+This project showcases how **Power BI + Excel Power Query** can convert raw, inconsistent data into a compelling visual story. From genre popularity to global trends and runtime analysis, it provides a well-rounded view of Netflix’s content strategy.
+
+🎯 Ideal for:
+- Portfolio presentation  
+- Business interviews  
+- BI & Data Analysis case studies  
+
+---
+
+## 👨‍💻 Author
+
+**Omkar Gaurav**  
+📧 Email: omkargaurav121@gmail.com  
+🔗 [LinkedIn](https://www.linkedin.com/in/omkar-gaurav-1508b6303)  
+💻 [GitHub](https://github.com/OmkarGaurav121)
+
+---
+
+⭐ If you found this project insightful, please **give it a star** and share it with others!
